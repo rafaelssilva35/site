@@ -1,0 +1,66 @@
+<!DOCTYPE hrml>
+<html lang="pt-bt">
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
+	<header>
+		<h1>Bologué</h1>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="index.html">Destraque</a></li>
+				<li><a href="index.html">Arquivo</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<section>
+	<article>
+		<h3>Lorem ipsum dolor sit amet</h3>
+		<h5>São Pauko</h5>
+		<p>
+Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não
+<figure> 
+<img src="flor.jpg" title="flor ">
+<figcaption> foto imagem de uma flor </figcaption>
+</figure>
+
+
+só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+<article>
+<p> 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus </p>
+</article>
+<article>
+<p> 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus </p>
+	</article>
+	</article>
+</section>
+
+<section>
+<h2>Post em destaque</h2>
+<article>
+<h3> bla bla bla</h3>
+<h5> São Paulo </h5>
+<p>ssagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus</p>
+</article>
+</section>
+<aside>
+Links<br>
+<a href="www.google.com.br">Google</a>
+<a href="Youtube.com.br">Youtube</a>
+</aside>
+<footer>
+	<h6>numero 1</h6>
+<ul>
+<li>teste1</li>
+<li>teste1</li>
+<li>teste1</li>
+<li>teste1</li>
+<li>teste1</li>
+</ul>
+
+
+</footer>
+</body>
+</html>
